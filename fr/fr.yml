@@ -1,0 +1,24 @@
+---
+header:
+  title: Mon Site Web
+  navigation:
+    home: Accueil
+    about: À Propos
+    services: Services
+    contact: Contact
+home:
+  hero:
+    title: Bienvenue sur Mon Site Web
+    subtitle: Nous offrons des services et des solutions incroyables
+  services:
+    title: Nos Services
+    description: Nous offrons une large gamme de services pour répondre à vos besoins
+about:
+  title: À Propos de Nous
+  description: En savoir plus sur notre entreprise et notre équipe
+services:
+  title: Nos Services
+  description: Nous offrons une large gamme de services pour répondre à vos besoins
+contact:
+  title: Contactez-Nous
+  description: Entrez en contact avec nous dès aujourd'hui

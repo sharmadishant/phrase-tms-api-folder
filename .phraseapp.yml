@@ -1,0 +1,13 @@
+phraseapp:
+  access_token: "c88e40e83d54b0ee1f1fd8310498d27cc740d24dddb05ee393fc87308079506c"
+  project_id: "93dac8c97cd5207269ef0672e0c8eb61"
+  file_format: "yml"
+
+  push:
+    sources:
+      - file: "./fr/fr.yml"
+      - file: "./en/en.yml"
+  pull:
+    targets:
+      - file: "./fr/fr.yml"
+      - file: "./en/en.yml"
